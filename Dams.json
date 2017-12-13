@@ -40,8 +40,8 @@
          "rating" : 4.3,
          "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
          "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "399 Queen Street, Brisbane City"
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment", "River" ],
+         "vicinity" : "Tinaroo Falls Dam"
       }],
 	"status": "OK"
 }
