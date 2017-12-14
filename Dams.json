@@ -45,7 +45,7 @@
          "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
          "scope" : "GOOGLE",
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "399 Queen Street, Brisbane City",
+         "vicinity" : "http://cdn.newsapi.com.au/image/v1/b40149c0458916ba0066d8bf764df58e?width=1024",
          "url" : "https://maps.google.com/?cid=14515450476601444452",
          "utc_offset" : 600,
          "website" : "https://www.absolutetranslations.com.au/"
