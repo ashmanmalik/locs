@@ -18,36 +18,9 @@
                }
             }
          },
-         "international_phone_number" : "+61 7 3303 8527",
-         "adr_address" : "9/<span class=\"street-address\">10 Eagle St</span>, <span class=\"locality\">Brisbane City</span> <span class=\"region\">QLD</span> <span class=\"postal-code\">4000</span>, <span class=\"country-name\">Australia</span>",
-         "formatted_address" : "9/10 Eagle St, Brisbane City QLD 4000, Australia",
-         "formatted_phone_number" : "1300 762 315",
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "d8f35f7cee5987c740b1e4ed10cdc2758653e6ef",
          "name" : "Tinaroo Falls Dam",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 2268,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/116320318634389077798/photos\"\u003eBruce Grice\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAABc35conlqVPODj3iAh6vvmgBuLwp4hFkulS41CbnrF7XB_T4nw0MUYr5iGHTMQi1W7V5mFRuYUgFGGjKssEoHHxpYdx1LDdqWju_dLkPkN__jg5hfnFs5lnBULH7IKwGEhDGk-Yzfh2Nz4HF6VsJ1K6DGhSp4lOkY-_fhphbjyMVc53qLZMC1g",
-               "width" : 4032
-            }
-         ],
-         "place_id" : "ChIJhTAH8x1akWsRqCdI2Wzu-Ug",
-         "price_level" : 2,
-         "rating" : 4.3,
          "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "vicinity" : "http://cdn.newsapi.com.au/image/v1/b40149c0458916ba0066d8bf764df58e?width=1024",
-         "url" : "https://maps.google.com/?cid=14515450476601444452",
-         "utc_offset" : 600,
          "website" : "https://www.absolutetranslations.com.au/"
       },
       {
@@ -67,36 +40,9 @@
               }
            }
         },
-        "international_phone_number" : "+61 7 3303 8527",
-        "adr_address" : "9/<span class=\"street-address\">10 Eagle St</span>, <span class=\"locality\">Brisbane City</span> <span class=\"region\">QLD</span> <span class=\"postal-code\">4000</span>, <span class=\"country-name\">Australia</span>",
-        "formatted_address" : "9/10 Eagle St, Brisbane City QLD 4000, Australia",
-        "formatted_phone_number" : "1300 762 315",
-        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-        "id" : "d8f35f7cee5987c740b1e4ed10cdc2758653e6ef",
         "name" : "Bjelke-Petersen Dam",
-        "opening_hours" : {
-           "open_now" : true,
-           "weekday_text" : []
-        },
-        "photos" : [
-           {
-              "height" : 2268,
-              "html_attributions" : [
-                 "\u003ca href=\"https://maps.google.com/maps/contrib/116320318634389077798/photos\"\u003eBruce Grice\u003c/a\u003e"
-              ],
-              "photo_reference" : "CmRaAAAABc35conlqVPODj3iAh6vvmgBuLwp4hFkulS41CbnrF7XB_T4nw0MUYr5iGHTMQi1W7V5mFRuYUgFGGjKssEoHHxpYdx1LDdqWju_dLkPkN__jg5hfnFs5lnBULH7IKwGEhDGk-Yzfh2Nz4HF6VsJ1K6DGhSp4lOkY-_fhphbjyMVc53qLZMC1g",
-              "width" : 4032
-           }
-        ],
-        "place_id" : "ChIJhTAH8x1akWsRqCdI2Wzu-Ug",
-        "price_level" : 2,
-        "rating" : 4.3,
         "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
-        "scope" : "GOOGLE",
-        "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
         "vicinity" : "I don't know address Yo",
-        "url" : "https://maps.google.com/?cid=14515450476601444452",
-        "utc_offset" : 600,
         "website" : "https://www.absolutetranslations.com.au/"
      },
      {
@@ -117,16 +63,6 @@
            }
         },
         "name" : "Boondooma Dam",
-        "photos" : [
-           {
-              "height" : 2268,
-              "html_attributions" : [
-                 "\u003ca href=\"https://maps.google.com/maps/contrib/116320318634389077798/photos\"\u003eBruce Grice\u003c/a\u003e"
-              ],
-              "photo_reference" : "CmRaAAAABc35conlqVPODj3iAh6vvmgBuLwp4hFkulS41CbnrF7XB_T4nw0MUYr5iGHTMQi1W7V5mFRuYUgFGGjKssEoHHxpYdx1LDdqWju_dLkPkN__jg5hfnFs5lnBULH7IKwGEhDGk-Yzfh2Nz4HF6VsJ1K6DGhSp4lOkY-_fhphbjyMVc53qLZMC1g",
-              "width" : 4032
-           }
-        ],
         "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
         "vicinity" : "The Lake Address",
