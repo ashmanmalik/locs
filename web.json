@@ -63,6 +63,27 @@
         "name" : "Boondooma Dam",
         "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
          "vicinity" : "The Lake Address",
+     },
+	{
+        "geometry" : {
+           "location" : {
+              "lat" : -20.644652,
+              "lng" : 147.139475
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -20.644652,
+                 "lng" : 147.139475
+              },
+              "southwest" : {
+                 "lat" : -20.637973,
+                 "lng" : 147.139475
+              }
+           }
+        },
+        "name" : "Burdekin Falls Dam",
+        "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
+         "vicinity" : "Burdekin Falls Dam Road",
      }
 
     ],
