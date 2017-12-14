@@ -1,0 +1,84 @@
+{
+    "address_components" =     (
+                {
+            "long_name" = 10;
+            "short_name" = 10;
+            types =             (
+                "street_number"
+            );
+        },
+                {
+            "long_name" = "Eagle Street";
+            "short_name" = "Eagle St";
+            types =             (
+                route
+            );
+        },
+                {
+            "long_name" = "Brisbane City";
+            "short_name" = "Brisbane City";
+            types =             (
+                locality,
+                political
+            );
+        },
+                {
+            "long_name" = Queensland;
+            "short_name" = QLD;
+            types =             (
+                "administrative_area_level_1",
+                political
+            );
+        },
+                {
+            "long_name" = Australia;
+            "short_name" = AU;
+            types =             (
+                country,
+                political
+            );
+        },
+                {
+            "long_name" = 4000;
+            "short_name" = 4000;
+            types =             (
+                "postal_code"
+            );
+        }
+    );
+    "adr_address" = "<span class=\"street-address\">10 Eagle St</span>, <span class=\"locality\">Brisbane City</span> <span class=\"region\">QLD</span> <span class=\"postal-code\">4000</span>, <span class=\"country-name\">Australia</span>";
+    "formatted_address" = "10 Eagle St, Brisbane City QLD 4000, Australia";
+    "formatted_phone_number" = "(07) 3221 1699";
+    geometry =     {
+        location =         {
+            lat = "-27.4691994";
+            lng = "153.029857";
+        };
+        viewport =         {
+            northeast =             {
+                lat = "-27.4678353697085";
+                lng = "153.0313854302915";
+            };
+            southwest =             {
+                lat = "-27.4705333302915";
+                lng = "153.0286874697085";
+            };
+        };
+    };
+    icon = "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png";
+    id = 0a581f3cd26c615502e4c763a53c3c6d86c0fcfd;
+    "international_phone_number" = "+61 7 3221 1699";
+    name = "Ace Insurance Limited";
+    "place_id" = ChIJtQ5vZBxakWsRFGcJRiN4z2M;
+    reference = "CmRRAAAAPbeTuDvN11_OLh11km54QvcpfkXvY9ipSE6DRPH6rBfTLqyhGJ3oDoi-hsuugvtPl5OYfcfBBYTe9WkHZslm1Al7ynT5_ofGyRX0UD5kw1savjmU0M71wBAb5R7QjWr2EhDiGGGtk4n2eM9D-qQ6nJc2GhTxIgEW42m_vEFmpHNoM1OuxbhPhQ";
+    scope = GOOGLE;
+    types =     (
+        "insurance_agency",
+        "point_of_interest",
+        establishment
+    );
+    url = "https://maps.google.com/?cid=7192099222828181268";
+    "utc_offset" = 600;
+    vicinity = "10 Eagle Street, Brisbane City";
+    website = "http://www.acegroup.com/";
+}
