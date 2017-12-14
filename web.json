@@ -19,6 +19,7 @@
             }
          },
          "name" : "Tinaroo Falls Dam",
+	 "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
          "vicinity" : "http://cdn.newsapi.com.au/image/v1/b40149c0458916ba0066d8bf764df58e?width=1024",
       },
       {
@@ -39,7 +40,8 @@
            }
         },
         "name" : "Bjelke-Petersen Dam",
-        "vicinity" : "I don't know address Yo",
+        "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
+         "vicinity" : "I don't know address Yo",
      },
      {
         "geometry" : {
@@ -59,9 +61,8 @@
            }
         },
         "name" : "Boondooma Dam",
-        "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-        "vicinity" : "The Lake Address",
-        "url" : "https://maps.google.com/?cid=14515450476601444452",
+        "reference" : "CmRRAAAA5cOPcChLBI1Njm3OD7D9z4ApwVWeGZM238xhVNgCVedelK7IJWLraRwGLKHIv_h9Ofj88D6qtDdcgc71UMuhhcpZAUiAVK2MRJqeJ8yBKr2_8LVoskfBq7_Y22r-VfCXEhAiLrfdlqaF4poDdPEUyU-5GhRk7KgJoX7Vsi_pOyCZryK9LZjnqg",
+         "vicinity" : "The Lake Address",
      }
 
     ],
